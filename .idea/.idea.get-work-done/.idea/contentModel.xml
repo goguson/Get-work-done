@@ -7,6 +7,7 @@
       <e p="docker" t="Include" />
       <e p="get-work-done.sln" t="IncludeFlat" />
       <e p="scripts" t="Include" />
+      <e p="src" t="Include" />
     </e>
   </component>
 </project>
