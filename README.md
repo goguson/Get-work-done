@@ -1,2 +1,2 @@
 
-.NET 5 Microservices based backend. I will add more details in future.
+.NET 5 Microservices based backend. I will add more details later.
